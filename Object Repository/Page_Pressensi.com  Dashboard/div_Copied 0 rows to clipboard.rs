@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copied 0 rows to clipboard</name>
+   <tag></tag>
+   <elementGuidId>bbe7e754-eea1-4dec-9299-9da624a2ecb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='datatables_buttons_info']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#datatables_buttons_info > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c209d8a-b0fe-4347-a9b5-625ea962b1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copied 0 rows to clipboard</value>
+      <webElementGuid>3fd1f6f2-1842-4690-8e57-d7f99d7257d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datatables_buttons_info&quot;)/div[1]</value>
+      <webElementGuid>21ae744d-f947-44bf-9079-cb723ae640b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='datatables_buttons_info']/div</value>
+      <webElementGuid>11060b83-9f92-4ab6-b228-4f528a8d002d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy to clipboard'])[1]/following::div[1]</value>
+      <webElementGuid>c799575a-3b28-4b20-bbe3-a4d50b8e1e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'datatables_buttons_info', '&quot;', ')/div[1]')])[1]/following::div[2]</value>
+      <webElementGuid>f840f97a-b0ef-4d32-9ac8-6788f344b3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copied 0 rows to clipboard']/parent::*</value>
+      <webElementGuid>012dab35-ca57-4f47-a68d-4c8ae62a682d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>09d7c686-eae5-4d3d-b4ed-a2095e8820bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Copied 0 rows to clipboard' or . = 'Copied 0 rows to clipboard')]</value>
+      <webElementGuid>f2ac0a07-765c-42ff-a9a2-1a5e471c03d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
